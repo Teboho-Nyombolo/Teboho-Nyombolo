@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I’m Teboho Thulani Nyombolo
 
-I’m a passionate Full-Stack Developer based in Johannesburg, currently in my final year of study and building real-world solutions through software. I enjoy creating impactful systems, solving technical problems, and continuously learning new technologies that strengthen my development craft.
+I’m a passionate Full-Stack Developer based in Johannesburg, building real-world solutions through software. I enjoy creating impactful systems, solving technical problems, and continuously learning new technologies that strengthen my development craft.
 
 I’m looking to collaborate on:<br>Java/Spring Boot projects, Angular/React front-end applications, Full-stack solutions that solve real business problems.<br><br>I’m looking for help with:<br>Advanced Spring Boot architecture and cloud-native deployment best practices.<br><br>I’m currently learning:<br>Spring Security, Microservices, Docker, and AWS to strengthen my full-stack capabilities.<br><br>Ask me about:<br>Java development, REST APIs, system design basics, and WordPress development.<br><br>Fun fact:<br>I enjoy solving logic challenges, exploring new technologies, and discovering unique fashion styles.<br><br>
 
