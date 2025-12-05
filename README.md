@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Teboho Thulani Nyombolo
+Hi, I’m Teboho Nyombolo
 
 I’m a passionate Full-Stack Developer based in Johannesburg, building real-world solutions through software. I enjoy creating impactful systems, solving technical problems, and continuously learning new technologies that strengthen my development craft.
 
